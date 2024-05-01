@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-pangram/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-pangram/actions/workflows/ruby.yml)
+
 # Pangram
 
 Determine if a sentence is a pangram. A pangram (Greek: παν γράμμα, pan gramma,
